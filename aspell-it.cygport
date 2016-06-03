@@ -2,7 +2,7 @@ ASPELL_COMPAT=6
 inherit aspell-dict
 
 NAME="aspell-it"
-VERSION=2.2_20050523-0
+VERSION=2.2_20050523.0
 RELEASE=1
 CATEGORY="Text"
 SUMMARY="Aspell Italian dictionaries"
